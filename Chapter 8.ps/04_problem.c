@@ -43,7 +43,7 @@ void slice(char str[], int m, int n)
 
 int main()
 {
-    char str[] = "Aditya Handge";
+    char str[] = "Harris Ali Khan";
 
     slice(str, 1, 7);
 

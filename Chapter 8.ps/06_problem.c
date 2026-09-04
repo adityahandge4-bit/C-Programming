@@ -4,7 +4,7 @@
 #include<string.h>
 
 int main(){
-    char str[]="Mammila phar lavkar raag yeto";
+    char str[]="Mi tar mamanchya ghari aalo aahe";
 
     for (int i = 0; i <strlen(str); i++)
     {

@@ -15,7 +15,7 @@ int main(){
         
         
     }
-    printf("The repeated chaarcter is a and it is repeated for %d times",count);
+    printf("The character is repeated for %d times",count);
     
     return 0;
 }

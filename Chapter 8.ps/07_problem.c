@@ -4,7 +4,7 @@
 
     int main()
 {
-    char str[] = "Nbnnjmb!qibs!mbwlbs!sbbh!zfup";
+    char str[] = "Nj!ubs!nbnbodizb!hibsj!bbmp!bbif";
 
     for (int i = 0; i < strlen(str); i++)
     {
