@@ -9,5 +9,6 @@ int main(){
 
     ptr[0]=89;
     printf("The integer value is %d",ptr[0]);
+    free(ptr);
     return 0;
 }
