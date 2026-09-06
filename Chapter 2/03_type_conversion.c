@@ -21,7 +21,7 @@ int main()
     float c= 9.0;
     int d = 2;
     float e = c /d;
-    printf("The value of c/d is %f", e);
+    printf("The value of %f/%d is %f", c,d,e);
     return 0;
 }
 

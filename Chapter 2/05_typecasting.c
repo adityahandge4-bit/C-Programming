@@ -21,3 +21,18 @@ int main()
     return 0;
 }
 // like this you can do typecasting
+
+// #include<stdio.h>
+
+// int main(){
+//     int c=67;
+//     float m;
+//     m=(float)c;
+//     printf("The value of m is %f\n",m);
+
+//     char carr='s';
+//     int n=(int) carr;
+//     printf("The value of n is %d",n);
+//     // This will return the ascii value.
+//     return 0;
+// }
