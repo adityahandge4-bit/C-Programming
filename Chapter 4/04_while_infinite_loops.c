@@ -9,3 +9,4 @@ int main(){
 }
 // This will be an infinite loop. 
 // Caution: if you are on computer just try the infinite loop and delete it quickly from terminal so that it will not harm the cpu of your pc or laptop.
+// If you have to run this program so add the increamentation inside the loop.
