@@ -9,7 +9,7 @@ int main(){
     if(a&&b){
         printf("The condition is true!\n"); // This will be executed whenthe a&&b will be true otherwise it will not print the statment under the condition of if.
     }
-    // Both the statements mentioned willl give the same output and like how we can write the codes in easier way without writing unnecessary code
+    // Both the statements mentioned will give the same output and like how we can write the codes in easier way without writing unnecessary code
     if(a){
         if(b){
             printf("The condition is true!");

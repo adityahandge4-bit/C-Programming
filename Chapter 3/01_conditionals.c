@@ -11,10 +11,10 @@ int main()
         printf("The age of the person is %d", age);
     }
 
-    else{
+    else
+    {
         printf("Yo are under age!");
     }
-    
+
     return 0;
-    
 }

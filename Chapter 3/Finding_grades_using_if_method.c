@@ -30,32 +30,32 @@ int main()
 
   if (marks >= 90)
   {
-    printf("Your achieved grade A");
+    printf("You achieved grade A");
   }
 
   else if (marks >= 80)
   {
-    printf("Your achieved grade B");
+    printf("You achieved grade B");
   }
 
   else if (marks >= 70)
   {
-    printf("Your achieved grade C");
+    printf("You achieved grade C");
   }
 
   else if (marks >= 60)
   {
-    printf("Your achieved grade D");
+    printf("You achieved grade D");
   }
 
   else if (marks >= 50)
   {
-    printf("Your achieved grade E");
+    printf("You achieved grade E");
   }
 
   else
   {
-    printf("Your achieved grade F i.e. you are fail!");
+    printf("You achieved grade F i.e. you are fail!");
   }
 
   return 0;
