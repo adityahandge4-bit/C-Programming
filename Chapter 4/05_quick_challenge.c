@@ -25,9 +25,10 @@ initialized to 0
 int main()
 {
     int i = 0;
-    while (i < 10)
+    printf("The natural numbers from 10 to 20 are: \n");
+    while (i <= 10)
     {
-        printf("The natural numbers from 10 to 20 are %d\n", (i + 10));
+        printf(" %d\n", (i + 10));
         i++;
     }
 
