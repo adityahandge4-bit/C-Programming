@@ -22,7 +22,7 @@ int main(){
     }
 
     printf("The element at s+1 position is %d\n",*(s+1)); // 2
-    printf("The element at s+3 position is %d\n",*(s+3)); // This will give wromg answer because there are only three element and you are asking the value at 4th position
+    printf("The element at s+3 position is %d\n",*(s+3)); // This will give wrong answer because there are only three element and you are asking the value at 4th position
 
 
   

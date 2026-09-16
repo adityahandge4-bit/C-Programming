@@ -1,3 +1,7 @@
+/*
+Write a program to accept marks of five student in an array and print them on sreen
+*/
+
 #include<stdio.h>
 
 int main(){
