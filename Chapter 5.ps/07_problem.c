@@ -17,7 +17,7 @@ void print_stars(int n)
     }
 
     printf("*");        // Print one star.
-    print_stars(n - 1); // Recursively print the remaining stars.
+    print_stars(n-1); // Recursively print the remaining stars.
 }
 
 int main()

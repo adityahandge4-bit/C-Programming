@@ -3,7 +3,7 @@
 int main()
 {
     int i = 72;
-    int *j = &i;                            // j is a pointer pointing to i and storing the address of the variable i
+    int *j = &i; // j is a pointer pointing to i and storing the address of the variable i
     printf("The address of i is %p\n", &i); // %p is used for printing character value of memory location  (j is an integer pointer)
 
     printf("The address of i is %u\n", &i); // %u is used for printing the integer value of memory location
