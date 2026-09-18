@@ -12,9 +12,5 @@ int main(){
 
     struct vector v={12,45};
     printf("The two dimensional vector is %di+%dj",v.i,v.j);
-
-
-    
-    
     return 0;
 }
