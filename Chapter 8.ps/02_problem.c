@@ -4,14 +4,14 @@ Write a program to take string as an input from the user using %c and %s and con
 #include<stdio.h>
 
 int main(){
-    char string[6];
+    char string[7];
     printf("Enter the string: \n");
-    for (int i = 0; i<5; i++)
+    for (int i = 0; i<6; i++)
     {
         scanf("%c",&string[i]);
        
     }
-    string[5]='\0';
+    string[6]='\0';
 
 
 

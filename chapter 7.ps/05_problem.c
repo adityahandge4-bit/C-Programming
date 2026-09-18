@@ -38,9 +38,16 @@ arr[2]=arr[3] i.e. 3 will replace by 4
 int main()
 {
     int arr[] = {1, 2, 3, 4, 5, 6};
+    int carr[]={23,45,67,89,90,99,21};
     print_array(arr, 6);
     reverse_array(arr, 6);
     print_array(arr, 6);
+
+
+    print_array(carr, 7);
+    reverse_array(carr, 7);
+    print_array(carr, 7);
+
 
     return 0;
 }
