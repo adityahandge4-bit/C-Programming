@@ -11,9 +11,7 @@ int main(){
         {
             printf("The character a is at index %d\n",i);
             count++;
-        }
-        
-        
+        }    
     }
     printf("The character is repeated for %d times",count);
     
