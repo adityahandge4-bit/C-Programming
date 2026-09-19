@@ -38,5 +38,7 @@ int main()
         printf("%f\n", ptr[i]);
     }
 
+    free(ptr);
+
     return 0;
 }
