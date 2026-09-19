@@ -1,11 +1,12 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
+int main()
+{
     FILE *ptr;
-    ptr=fopen("Adi.txt","w");
-    char str[]={"Harry Bhai is the best teacher"};
+    ptr = fopen("Adi.txt", "w");
+    char str[] = {"Harry Bhai is the best teacher"};
 
-    fprintf(ptr,"%s",str);
+    fprintf(ptr, "%s", str);
     fclose(ptr);
     return 0;
 }
