@@ -36,3 +36,13 @@ int main()
 //     // This will return the ascii value.
 //     return 0;
 // }
+
+
+#include <stdio.h>
+
+int main(){
+    int c=67;
+    printf("The value of variable c is %d",c);
+
+return 0;
+}
