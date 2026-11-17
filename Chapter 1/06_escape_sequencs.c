@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int a;
+    int b;
     char ch = 'a';  // cahracter is always written in single quote
     ch='c';
     ch='\n'; //represents new line
