@@ -3,10 +3,10 @@
 int main()
 {
     int a;
-    a = 6;
+    a = 6;     // Variable initialization
     int Harry; //so you can have any variable name without any special char.
     int _Adi;  // you can take under score at the beginning or at any place in variable name
     int harry;                                          // Variable declaration
-    printf("The output of this program is %d", a);      // Variable initialization
+    printf("The output of this program is %d", a);     
     return 0;
 }
