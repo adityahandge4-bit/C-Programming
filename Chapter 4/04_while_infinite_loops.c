@@ -1,3 +1,5 @@
+// Infinite loop
+
 #include<stdio.h>
 
 int main(){
