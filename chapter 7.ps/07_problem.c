@@ -11,26 +11,24 @@ int main()
         {
             if (i == 0 && j < 10)
             {
-                arr[i][j] = 2*(j+1);
+                arr[i][j] = 2 * (j + 1);
                 printf("%d ", arr[i][j]);
             }
 
-            if (i==1 && j<10)
+            if (i == 1 && j < 10)
             {
-                arr[i][j]=7*(j+1);
+                arr[i][j] = 7 * (j + 1);
                 printf("%d ", arr[i][j]);
             }
 
-            if (i==2 && j<10)
+            if (i == 2 && j < 10)
             {
-                arr[i][j]=9*(j+1);
+                arr[i][j] = 9 * (j + 1);
                 printf("%d ", arr[i][j]);
-            }   
-            
+            }
         }
         printf("\n");
     }
-
 
     return 0;
 }
@@ -48,7 +46,7 @@ int main()
 //         {
 //             arr[i][j]=mul[i]*(j+1);
 //         }
-        
+
 //     }
 
 //     for (int i = 0; i < 3; i++)
